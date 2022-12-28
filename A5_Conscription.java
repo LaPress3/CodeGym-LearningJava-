@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-/* created:12/28/2022
+/* created:12/28/22 
 Conscription assignment...Scan user name and age then use if else 
 */
 
-public class Conscriptiond {
+public class A5_Conscription {
     public static void main(String[] args) {
         String militaryCommissar = ", you've been drafted for military service";
         Scanner scan = new Scanner(System.in);
