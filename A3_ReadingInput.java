@@ -2,7 +2,7 @@
 Task Name: Reading and converting strings*/
 import java.util.Scanner;
 
-public class ReadingInput {
+public class A3_ReadingInput {
 
     public static void main(String[] args) {
         //write your code here
