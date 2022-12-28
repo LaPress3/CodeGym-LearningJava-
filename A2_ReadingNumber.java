@@ -4,7 +4,7 @@ import java.util.Scanner;
 Reading numbers (Finding mean and scanning input)
 */
 
-public class ReadingNumber {
+public class A2_ReadingNumber {
 
     public static void main(String[] args) {
         //write your code here

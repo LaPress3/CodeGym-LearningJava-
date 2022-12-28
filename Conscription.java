@@ -4,7 +4,7 @@ import java.util.Scanner;
 Conscription assignment...Scan user name and age then use if else
 */
 
-public class Conscription {
+public class Conscriptiond {
     public static void main(String[] args) {
         String militaryCommissar = ", you've been drafted for military service";
         Scanner scan = new Scanner(System.in);
