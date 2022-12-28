@@ -4,7 +4,7 @@ import java.util.Scanner;
 Warm or cold Basic if Else practice
 */
 
-public class WarmOrColdIfElse {
+public class A4_WarmOrColdIfElse {
     public static void main(String[] args) {
         String cold = "It's cold outside";
         String warm = "It's warm outside";
