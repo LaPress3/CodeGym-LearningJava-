@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-/* 
+/* created 12/27/2022
 Reading numbers (Finding mean and scanning input)
 */
 
