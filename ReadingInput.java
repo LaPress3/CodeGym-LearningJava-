@@ -1,4 +1,5 @@
-/* Task Name: Reading and converting strings*/
+/* Created: 12/27/2022
+Task Name: Reading and converting strings*/
 import java.util.Scanner;
 
 public class ReadingInput {

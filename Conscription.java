@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-/* 
-Conscription assignment...Scan user name and age then use if else
+/* created:12/28/2022
+Conscription assignment...Scan user name and age then use if else 
 */
 
 public class Conscriptiond {
