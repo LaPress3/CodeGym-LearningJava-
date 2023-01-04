@@ -5,7 +5,7 @@ import java.util.Scanner;
 Find bigger number and use ternary operator instead of else if
 */
 
-public class A10_FindMax_TernaryOp {
+public class AA1_FindMax_TernaryOp {
         public static void main(String[] args) {
             Scanner scan = new Scanner(System.in);
             int numberA = scan.nextInt();
