@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /* 
 1/3/23 
-Find bigger number and use ternary operator instead of else if
+Find if real numbers are equal 
 */
 
 public class AA2_AbsVal_with_TernaryOp {
