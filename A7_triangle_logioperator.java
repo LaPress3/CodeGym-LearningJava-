@@ -3,8 +3,10 @@ import java.util.Scanner;
 /* 
 1/1/2023
 compare three int to determine if its a triangle...
-If each comparison indicates that the side is less than the sum of the other two sides, then a triangle with these sides does exist.
-If even one comparison indicates that the side is greater than or equal to the sum of the other two sides, then a triangle with these sides does not exist.
+If each comparison indicates that the side is less than the sum of the other two sides, 
+then a triangle with these sides does exist.
+If even one comparison indicates that the side is greater than or equal to the sum of the
+other two sides, then a triangle with these sides does not exist.
 */
 
 
