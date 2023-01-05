@@ -3,7 +3,7 @@ import java.util.Scanner;
 /* 
 1/1/2023
 Using Logical operator or||
-To work or not to work? That is the question
+To work or not to work? That is the question.
 */
 
 public class A8_usingOR{
