@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /* Created 12/28/2022
-Warm or cold Basic if Else practice
+Warm or cold Basic if Else practice.
 */
 
 public class A4_WarmOrColdIfElse {
