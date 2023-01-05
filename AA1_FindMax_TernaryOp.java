@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /* 
 1/3/23 
-Find bigger number and use ternary operator instead of else if
+Find bigger number and use ternary operator instead of else if.
 */
 
 public class AA1_FindMax_TernaryOp {
