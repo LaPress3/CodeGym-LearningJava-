@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
 /* 
-1/3/23 
-Find bigger number and use ternary operator instead of else if
+1/4/23  Comparing strings with .equals
 */
 
 public class AA3_Comparing_Strings {
