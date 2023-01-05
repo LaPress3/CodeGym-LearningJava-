@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /* 
-1/2/23 using boolean and logioperator && to determine coordiantes
+1/2/23 using boolean and logioperator && to determine coordiantes.
 Quadrants
 */
 
