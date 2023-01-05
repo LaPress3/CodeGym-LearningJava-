@@ -12,6 +12,7 @@ public class AA2_AbsVal_with_TernaryOp {
         Scanner scan= new Scanner (System.in);
         double num1 = scan.nextDouble();
         double num2 = scan.nextDouble();
+        scan.close();
         String answer = (Math.abs(num1-num2)<.000001) ? Equal: NotEqual;
         System.out.println(answer);
        

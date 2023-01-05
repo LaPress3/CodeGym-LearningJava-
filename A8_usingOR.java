@@ -12,6 +12,7 @@ public class A8_usingOR{
         
         Scanner scan = new Scanner (System.in);
         int num1 = scan.nextInt();
+        scan.close();
         boolean tooYoung = (num1<20);
         boolean tooOld =(num1>60);
         if(tooYoung||tooOld)

@@ -22,6 +22,7 @@ Scanner scan = new Scanner(System.in);
 int num1 = scan.nextInt();
 int num2 = scan.nextInt();
 int num3 = scan.nextInt();
+scan.close();
 boolean test1 = (num1< (num2+num3));
 boolean test2 = (num2 < (num1 + num3));
 boolean test3 = (num3<(num1+num2));

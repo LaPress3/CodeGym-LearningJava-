@@ -11,6 +11,7 @@ public class A4_WarmOrColdIfElse {
         //write your code here
         Scanner scan= new Scanner(System.in);
         int temp = scan.nextInt();
+        scan.close();
         if (temp<0)
         System.out.println(cold);
         else 

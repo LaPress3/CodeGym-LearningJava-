@@ -9,6 +9,7 @@ public class A5_Conscription {
         String militaryCommissar = ", you've been drafted for military service";
         Scanner scan = new Scanner(System.in);
         String name = scan.nextLine(); //scan user name
+        scan.close();
         int age  = scan.nextInt();//scan user age
         if (age >= 18 && age <= 28 )
         System.out.println(name + militaryCommissar);

@@ -13,6 +13,7 @@ int a = scan.nextInt();
 int b = scan.nextInt();
 int c = scan.nextInt();
 int d = ((a+b+c)/3);
+scan.close();
 System.out.println(d);
     }
 }

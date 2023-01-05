@@ -10,6 +10,7 @@ public class A9_UsingAND_4Quadrants {
         Scanner scan = new Scanner(System.in);
         int X_axis = scan.nextInt();
         int y_axis = scan.nextInt();
+        scan.close();
         boolean quadrant1 = (X_axis > 0 && y_axis > 0);
         boolean quadrant2 = ( X_axis < 0 && y_axis > 0);
         boolean quadrant3 = ( X_axis < 0 && y_axis < 0);

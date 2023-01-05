@@ -11,8 +11,8 @@ public class A6_IfElsetoBoolean {
     private static boolean isLow;
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        double bodyTemperature = scanner.nextDouble();
+        Scanner scan = new Scanner(System.in);
+        double bodyTemperature = scan.nextDouble();
         /*write following if else using boolean
         if (bodyTemperature > 37) {
             System.out.println("Body temperature is high");
@@ -21,6 +21,7 @@ public class A6_IfElsetoBoolean {
         } else {
             System.out.println("Body temperature is normal");
         }*/
+        scan.close();
          isHigh =(bodyTemperature>37);
          isLow = (bodyTemperature<36);
         if (isHigh)
@@ -29,6 +30,7 @@ public class A6_IfElsetoBoolean {
         System.out.println("Body temperature is low");
         else
         System.out.println("Body temperature is normal");
+        
     }
 }
 
