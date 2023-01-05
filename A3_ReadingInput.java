@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class A3_ReadingInput {
 
     public static void main(String[] args) {
-        //write your code here
+        
 Scanner scan = new Scanner (System.in);
 String line1 = scan.nextLine();
 String line2 = scan.nextLine();
