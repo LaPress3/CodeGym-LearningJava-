@@ -19,7 +19,7 @@ public class A6_IfElsetoBoolean {
         } else if (bodyTemperature < 36) {
             System.out.println("Body temperature is low");
         } else {
-            System.out.println("Body temperature is normal");
+            System.out.println("Body temperature is normal.");
         }*/
         scan.close();
          isHigh =(bodyTemperature>37);
