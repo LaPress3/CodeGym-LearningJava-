@@ -1,7 +1,7 @@
 
 
 /* 
-1/10/23  loop adding two numbers or type ENTER to leave
+1/10/23  loop adding two numbers or type EXIT to leave
 */
 
 import java.util.Scanner;
@@ -21,7 +21,7 @@ public class AA8_LoopSum_UserExit {
                 System.out.println(sum);
             } else if (scan.hasNextLine()) {
                 String line = scan.nextLine();
-                if (line.equals("ENTER")) {
+                if (line.equals("EXIT")) {
                     isExit = true;
                 }
             }
